@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT people (person*)>
+<!ELEMENT person (name, age)>
+<!ATTLIST person gender (M|F) "M">
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT age (#PCDATA)>

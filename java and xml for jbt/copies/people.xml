@@ -1,0 +1,14 @@
+<?xml version="1.0"?><!-- Exception scanning External DTD Subset.  True contents of DTD cannot be determined.  Processing will continue as XMLInputFactory.IS_VALIDATING == false. --><people>
+	<person gender="M">
+		<name>David</name>
+		<age>40</age>
+	</person>
+	<person gender="F">
+		<name>Tamar</name>
+		<age>35</age>
+	</person>
+	<person gender="M">
+		<name>Moshe</name>
+		<age>11</age>
+	</person>
+</people>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<people>
+	<person gender="M">
+		<name>Tom</name>
+		<age>30</age>
+	</person>
+</people>
